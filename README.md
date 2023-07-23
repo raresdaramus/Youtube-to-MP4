@@ -8,7 +8,7 @@ A user-friendly graphical interface built using Tkinter.
 Real-time progress bar for tracking download progress.
 Completely standalone executable - no need to install additional software or dependencies.
 # How to Use
-Run the executable youtube_downloader.exe (for Windows users) provided in the "dist" folder.
+Run the executable YoutubeDownloader.exe (for Windows users) provided in the "dist" folder.
 Enter the YouTube video URL in the input field.
 Choose the destination folder where you want to save the downloaded video.
 Click the "Download Video" button to start the download.
